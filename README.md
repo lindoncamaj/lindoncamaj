@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hi there, I'm Lindon Camaj
 
 ## 📖 About Me
-- 🖥 Data Engineer with a Hunger to Learn
+- 🖥 Aspiring Data Engineer with a Hunger to Learn
 - 💼 Research Assistant, Data Operations 𝚊𝚝 The Radesky Lab
 - 🎓 Master of Science in Information, Focus in Big Data Analytics 𝚏𝚛𝚘𝚖 the University of Michigan - Ann Arbor, class of 2025
 - 🎓 Bachelor of Science in Information Technology 𝚏𝚛𝚘𝚖 Lawrence Technological University, class of 2023
